@@ -12,7 +12,7 @@ const About = () => (
           <ul className={styles.infoList}>
             {[
               ["Name", "Shahid Khan"],
-              ["Email", "shahidkhan@example.com"],
+              ["Email", "shahidiqbalkhan900@gmail.com"],
               ["Location", "Pakistan"],
               ["Experience", "AI-Assisted Developer"],
               ["Availability", "Remote Work"],
