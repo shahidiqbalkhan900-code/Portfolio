@@ -28,7 +28,7 @@ const About = () => (
         <div className={styles.card}>
           <h3 className={styles.cardTitle}>Who I Am</h3>
           <p className={styles.text}>
-            I'm an Electronics Engineer and Web Developer passionate about building modern web applications.
+            I'm an Associate Telecommunication Engineer who enjoys designing and developing modern web applications with clean code and intuitive user experiences.
           </p>
           <p className={styles.text}>
             I combine technical skills with AI tools like ChatGPT, OpenCede, and Z.ai to deliver high-performance solutions.
