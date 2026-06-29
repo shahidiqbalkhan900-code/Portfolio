@@ -29,7 +29,7 @@ const Navbar = () => {
   return (
     <nav className={styles.nav}>
       <div className={styles.inner}>
-        <a href="#" onClick={() => scrollTo("home")} className={styles.logo}>
+        <a href="#home" onClick={(e) => { e.preventDefault(); scrollTo("home"); }} className={styles.logo}>
           Shahid Khan
         </a>
 

@@ -159,6 +159,7 @@
   position: relative;
   display: inline-block;
   height: 1.5em;
+  min-width: 14ch;
 }
 
 .roleItem {

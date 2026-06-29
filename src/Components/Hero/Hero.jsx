@@ -74,7 +74,7 @@ const Hero = () => (
         <div className={styles.profileCard}>
           <div className={styles.profileGlow} />
           <div className={styles.avatar}>
-            <img src="src/assets/img/profile.png" alt="Shahid Khan" />
+            <img src="/profile.png" alt="Shahid Khan" />
           </div>
         </div>
 

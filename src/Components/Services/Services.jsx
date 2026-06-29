@@ -6,6 +6,7 @@ const services = [
   { title: "Web Applications", desc: "Scalable, high-performance web applications.", icon: "⚡" },
   { title: "Admin Dashboards", desc: "Data-rich dashboards for managing your business.", icon: "📊" },
   { title: "Website Maintenance", desc: "Ongoing support, updates, and performance optimization.", icon: "🔧" },
+  { title: "API Development", desc: "Custom RESTful APIs to power your applications.", icon: "🔌" },
 ];
 
 const Services = () => (

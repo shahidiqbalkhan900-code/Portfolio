@@ -20,13 +20,13 @@ function App() {
           <Hero />
           <About />
           <Skills />
+          <Projects />
+          <Services />
+          <Process />
+          <Stats />
+          <Testimonials />
+          <Contact />
         </main>
-        <Projects />
-        <Services />
-        <Process />
-        <Stats />
-        <Testimonials />
-        <Contact />
         <Footer />
       </div>
     </ThemeProvider>
